@@ -1,11 +1,22 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+(fill in your description and goals here) 
+Hello, this is **Tashrif Mahmud** and this is my first SQL project as part of my **Lighthouse Labs** datascience bootcamp curriculam. :computer:
 
 ## Process
 ### (your step 1)
 ### (your step 2)
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
 
 ## Results
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
