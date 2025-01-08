@@ -1,7 +1,7 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-> Hello, this is **Tashrif Mahmud** and this is my first SQL project as part of my **Lighthouse Labs** datascience bootcamp curriculam! :computer:
+> Hello, this is **Tashrif Mahmud** and this is my SQL project as part of my **Lighthouse Labs** datascience bootcamp curriculam! :computer:
 
 The dataset we were given is a raw ecommerce dataset in .csv files. Five tables were created in PostgreSQL for further analysis. 
 Details of it are given is **cleaning_data.md** file.
